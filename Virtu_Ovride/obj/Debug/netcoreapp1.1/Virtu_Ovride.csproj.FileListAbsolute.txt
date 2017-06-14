@@ -1,0 +1,8 @@
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\bin\Debug\netcoreapp1.1\Virtu_Ovride.deps.json
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\bin\Debug\netcoreapp1.1\Virtu_Ovride.runtimeconfig.json
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\bin\Debug\netcoreapp1.1\Virtu_Ovride.runtimeconfig.dev.json
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\bin\Debug\netcoreapp1.1\Virtu_Ovride.dll
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\bin\Debug\netcoreapp1.1\Virtu_Ovride.pdb
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\obj\Debug\netcoreapp1.1\Virtu_Ovride.AssemblyInfo.cs
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\obj\Debug\netcoreapp1.1\Virtu_Ovride.dll
+C:\Users\govardhan.nandi\Documents\Virtual_Override_combinations\Virtu_Ovride\obj\Debug\netcoreapp1.1\Virtu_Ovride.pdb
