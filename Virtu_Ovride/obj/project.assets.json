@@ -7042,16 +7042,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride\\Virtu_Ovride.csproj",
+      "projectUniqueName": "c:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride_Test\\Virtu_Ovride\\Virtu_Ovride.csproj",
       "projectName": "Virtu_Ovride",
-      "projectPath": "C:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride\\Virtu_Ovride.csproj",
-      "outputPath": "C:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride\\obj\\",
+      "projectPath": "c:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride_Test\\Virtu_Ovride\\Virtu_Ovride.csproj",
+      "outputPath": "c:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride_Test\\Virtu_Ovride\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Virtu_Ovride.dll": "C:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride\\bin\\placeholder\\netcoreapp1.1\\Virtu_Ovride.dll"
+        "lib/netcoreapp1.1/Virtu_Ovride.dll": "c:\\Users\\govardhan.nandi\\Documents\\Virtual_Override_combinations\\Virtu_Ovride_Test\\Virtu_Ovride\\bin\\placeholder\\netcoreapp1.1\\Virtu_Ovride.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
